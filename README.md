@@ -58,7 +58,7 @@ Event log (306648 events x 4 fields)
 ├── project_tests.py-----------------------# UNIT TESTS FOR PROJECT
 ├── picA.png-------------------------------# Figure from Udacity Template
 ├── picB.png-------------------------------# Figure from Udacity Template
-└── reqs-----------------------------------# CUSTOM PLOTS CREATED IN PLOTLY
+└── reqs-----------------------------------# Requirements Folder
     ├── Starbucks_Capstone_notebook.py------#Python File genereated from Notebook
     └── requirements.txt-------------------# Libraries used
 </pre>
