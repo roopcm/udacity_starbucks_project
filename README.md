@@ -1,5 +1,9 @@
 # Starbucks-Capstone-Challenge - Analysis of Starbucks Pilot Project
 ----
+### Medium Blog Post
+Here is the Medium blog post I have written: https://medium.com/@mitraroopc/analysis-of-starbucks-pilot-project-eddf2c2899ea
+
+
 ## The Dataset Used for the work
 * The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 * Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.
