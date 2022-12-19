@@ -70,4 +70,4 @@ Event log (306648 events x 4 fields)
 This is project uses Python 3.8.1 and the necessary libraries are mentioned in [requirements file]
 in the reqs folder
 
-The medium article on the data analysis can be found in this [link](https://medium.com/@vishalkrishna.bhosle/starbucks-capstone-challenge-35e3b8c6b328)
+The medium article on the data analysis can be found in this [link](https://medium.com/@mitraroopc/analysis-of-starbucks-pilot-project-eddf2c2899ea)
