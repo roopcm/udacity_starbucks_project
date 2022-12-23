@@ -1,5 +1,33 @@
-# Starbucks-Capstone-Challenge
+# Starbucks-Buy-one Get-one Offer Data Modeling
 ----
+
+### Medium Blog Post
+Here is the Medium blog post I have written: https://medium.com/@mitraroopc/understanding-seattle-airbnb-dataset-d3958a436b4c
+
+
+#### Project Overview
+
+1. Business Problem and Project Overview
+
+2. Introductory Analysis
+
+3. Understanding the Input Data &Exploratory Data Analysis on Each Individual Dataset
+
+4. Cleaning Up & Data Preprocessing
+
+5. Feature Engineering on Merged Data
+
+6. EDA on Final Merged Data
+
+7. Metrics,Feature Selection, Model Building & Model Evaluation
+
+8. Results & Conclusion
+
+9. Possible Improvements
+
+10. Future Directions
+
+
 ## The Dataset Used for the work
 * The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 * Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.
