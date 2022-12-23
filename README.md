@@ -1,9 +1,5 @@
-# Starbucks-Capstone-Challenge - Analysis of Starbucks Pilot Project
+# Starbucks-Capstone-Challenge
 ----
-### Medium Blog Post
-Here is the Medium blog post I have written: https://medium.com/@mitraroopc/analysis-of-starbucks-pilot-project-eddf2c2899ea
-
-
 ## The Dataset Used for the work
 * The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 * Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.
@@ -49,17 +45,18 @@ Event log (306648 events x 4 fields)
 
 <pre>
 .
-├── Starbucks_Capstone_notebook.html----------# HTML EXPORT OF JUPYTER NOTEBOOK
-├── Starbucks_Capstone_notebook.ipynb---------# ANALYSIS NOTEBOOK
+├── Starbucks_Capstone_my_notebook.html----------# HTML EXPORT OF JUPYTER NOTEBOOK
+├── Starbucks_Capstone_my_notebook.ipynb---------# ANALYSIS NOTEBOOK
 ├── data
 │   ├──transcript.json--------------------#INFORMATION ABOUT TRANSCRIPTS
     ├──portfolio.json---------------------#INFORMATION ABOUT PORTFOLIOS
 │   └──profile.json-----------------------#INFORMATION ABOUT PROFILES
-├── project_tests.py-----------------------# UNIT TESTS FOR PROJECT
+├── firstEvent.pkl-----------------------# DataSets with Users's First Interaction with Offer
+├── secondEvent.pkl-----------------------# DataSets with Users's Second Interaction with Offer
 ├── picA.png-------------------------------# Figure from Udacity Template
 ├── picB.png-------------------------------# Figure from Udacity Template
 └── reqs-----------------------------------# Requirements Folder
-    ├── Starbucks_Capstone_notebook.py------#Python File genereated from Notebook
+    ├── Starbucks_Capstone_my_notebook.py------#Python File genereated from Notebook
     └── requirements.txt-------------------# Libraries used
 </pre>
 
@@ -70,4 +67,4 @@ Event log (306648 events x 4 fields)
 This is project uses Python 3.8.1 and the necessary libraries are mentioned in [requirements file]
 in the reqs folder
 
-The medium article on the data analysis can be found in this [link](https://medium.com/@mitraroopc/analysis-of-starbucks-pilot-project-eddf2c2899ea)
+The medium article on the data analysis can be found in this [link](https://medium.com/@vishalkrishna.bhosle/starbucks-capstone-challenge-35e3b8c6b328)
