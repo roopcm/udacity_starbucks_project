@@ -2,7 +2,7 @@
 ----
 
 ### Medium Blog Post
-Here is the Medium blog post I have written: https://medium.com/@mitraroopc/understanding-seattle-airbnb-dataset-d3958a436b4c
+Here is the Medium blog post I have written: https://medium.com/@mitraroopc/analysis-of-starbucks-pilot-project-eddf2c2899ea
 
 
 #### Project Overview
